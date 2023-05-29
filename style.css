@@ -1,0 +1,23 @@
+
+.bordercontainer{
+    border: dotted red;
+    border-width: 3px;
+    height: 550px;
+    margin: 3em;
+    background-color: yellow;
+}
+.title{
+text-align: center
+border: solid black;
+margin: .5em;
+font-size: 52px;
+text-decoration: underline;
+}
+.info{
+    font-size: 28px;
+    text-align: center;
+}
+.description{
+    text-align: center;
+    text-decoration: underline;
+}
